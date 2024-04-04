@@ -222,7 +222,7 @@ def check_containment(gdf, id_col, min_area=0):
 
 def _main():
     """
-    For internal use only
+    Example for my final project haha
     """
 
     def run_function(file):
