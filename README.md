@@ -1,6 +1,6 @@
-# Topolog
+# ToPolice
 
-Topolog is a tool designed for checking topological errors in vector data.
+ToPolice is a tool designed for checking topological errors in vector data.
 
 ## Available Use Cases
 
